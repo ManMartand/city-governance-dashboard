@@ -4,7 +4,11 @@ A real-time City Governance Dashboard hosted on AWS EC2 using Nginx, with Fireba
 
 ## Live Demo
 
-http://3.110.114.44
+This project was deployed and tested on an AWS EC2 instance using Nginx.
+
+> The EC2 instance is currently stopped to avoid AWS charges. It can be started again for live demonstration when required.
+
+Demo URL: http://3.110.114.44
 
 ## Features
 
